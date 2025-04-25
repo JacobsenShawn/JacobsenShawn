@@ -15,13 +15,25 @@
 - Git & GitHub
 
 
-📁 Repositories by Subject
+🌱 About Me
 
-| Subject            | Repo Link |
-|--------------------|-----------|
-| 🔣 JavaScript Basics | [JS-Basics](https://github.com/YourUsername/JS-Basics) |
-| 💡 Algorithms & Logic | [Algo-Practice](https://github.com/YourUsername/Algo-Practice) |
-| 🌐 Web Development | [WebDev-Course](https://github.com/YourUsername/WebDev-Course) |
+- 🧩 I love learning how things work behind the scenes
+- 🎯 Focused on mastering the fundamentals
+- ✨ Building a portfolio one project at a time
+
+📁 Repositories by Subject
+<!--
+This is how you add the courses 
+
+| Subject              | Repo Link |
+|---------------------|----------------------------------------------------------------|
+|  JavaScript Basics  | [JS-Basics](https://github.com/YourUsername/JS-Basics) |
+|  Algorithms & Logic | [Algo-Practice](https://github.com/YourUsername/Algo-Practice) |
+|  Web Development    | [WebDev-Course](https://github.com/YourUsername/WebDev-Course) |
+-->
+
+
+
 <!--
 **JacobsenShawn/JacobsenShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,3 +49,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Thanks for stopping by! 💻🧠

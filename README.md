@@ -20,22 +20,35 @@
 
 - 🧩 I love learning how things work behind the scenes
 - 🎯 Focused on mastering the fundamentals
+- 🧠 I love learning to solving real-world problems with code  
 - ✨ Building a portfolio one project at a time
+- 🌍 Open to internships, collaborations
 
-  
+- ## 🛠️ Tech Stack {Learning as I go}
+- Languages: HTML/CSS, JavaScript, Python
+- Tools: Git, GitHub
+- Currently Learning: Front-End Development , and Coding Fundamentals 
+  <!--
+  This is how you add the courses
+  --> 
 ## 📁 Repositories by Subject (coming soon)
-<!--
-This is how you add the courses 
 
-| Subject              | Repo Link |
-|---------------------|----------------------------------------------------------------|
-|  JavaScript Basics  | [JS-Basics](https://github.com/YourUsername/JS-Basics) |             <---  the repo i create url goes here 
+| Subject                             | Repo Link  |
+|-------------------------------------|-------------------------------------------------------------------|
+|  List of Achieved  Certifications   |[Certifications](https://github.com/JacobsenShawn/Certifications-)
+|  Code In Place      | coming soon   |     
+|  Web Development    | coming soon   |     
+|  Angela Yu   | coming soon   |  
+<!--
+
 |  Code In Place      | [Algo-Practice](https://github.com/YourUsername/Algo-Practice) |     <---  the repo i create url goes here 
 |  Web Development    | [WebDev-Course](https://github.com/YourUsername/WebDev-Course) |     <---  the repo i create url goes here 
 -->
-
-
+🚀 Featured Projects (Coming Soon)
+[MyPortfolioSite]
+[AdditionalProjects]
 
 Thanks for stopping by! 
 Please feel free to follow me on my journey, and dont hesitate to reach out throught the provided links.
 i would love to collabprate with fellow go GITters to continue to learn and grow. 💻🧠
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=JacobsenShawn.JacobsenShawn)

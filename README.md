@@ -47,8 +47,8 @@
 |  Web Development    | [WebDev-Course](https://github.com/YourUsername/WebDev-Course) |     <---  the repo i create url goes here 
 -->
 🚀 Featured Projects (Coming Soon)
-[MyPortfolioSite]
-[AdditionalProjects]
+- MyPortfolioSite
+- AdditionalProjects
 
 Thanks for stopping by! 
 Please feel free to follow me on my journey, and dont hesitate to reach out throught the provided links.

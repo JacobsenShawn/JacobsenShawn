@@ -36,7 +36,9 @@
 | Subject                             | Repo Link  |
 |-------------------------------------|-------------------------------------------------------------------|
 |  List of Achieved  Certifications   |[Certifications](https://github.com/JacobsenShawn/Certifications-)
-|  Code In Place      | coming soon   |     
+|  Udacity Animal Trading Card        | (https://github.com/JacobsenShawn/Animal-Trading-Card-.git)
+|  Udacity Blog Project               | (https://github.com/JacobsenShawn/Udacity-Blog-Project.git)
+|  Code In Place      | coming soon   |  
 |  Web Development    | coming soon   |     
 |  Angela Yu   | coming soon   |  
 <!--

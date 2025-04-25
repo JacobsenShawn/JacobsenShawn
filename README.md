@@ -1,12 +1,15 @@
 # Hi there 👋
 
-## My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
+ ## 🛠️ About Me
  
-🚀 Aspiring { NASA Network Engineer } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
-🎓 I'm currently learning to code and building cool projects as I go!  
-🚀 My goal is to become a full-stack web developer and master real-world coding skills.  
-📚 I'm using GitHub to share everything I'm learning — from basic JavaScript to full web apps.
+###   My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
+<br>
 
+- 🚀 Aspiring { NASA Network Engineer } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
+- 🎓 I'm currently learning to code and building cool projects as I go!  
+- 🚀 My goal is to become a full-stack web developer and master real-world coding skills.  
+- 📚 I'm using GitHub to share everything I'm learning — from basic JavaScript to full web apps.
+<br>
 
 ## 🛠️ Tech I’m Learning
 
@@ -14,7 +17,7 @@
 - Code Academy - HTML, CSS, JavaScript, and more
 - Git & GitHub
 - CompTia - Net+
-
+<br>
 
 ## 🌱 About Me
 
@@ -23,8 +26,9 @@
 - 🧠 I love learning to solving real-world problems with code  
 - ✨ Building a portfolio one project at a time
 - 🌍 Open to internships, collaborations
+<br>
 
-- ## 🛠️ Tech Stack {Learning as I go}
+ ## 🛠️ Tech Stack {Learning as I go}
 - Languages: HTML/CSS, JavaScript, Python
 - Tools: Git, GitHub
 - Currently Learning: Front-End Development , and Coding Fundamentals 
@@ -36,8 +40,8 @@
 | Subject                             | Repo Link  |
 |-------------------------------------|-------------------------------------------------------------------|
 |  List of Achieved  Certifications   |[Certifications](https://github.com/JacobsenShawn/Certifications-)
-|  Udacity Animal Trading Card        | (https://github.com/JacobsenShawn/Animal-Trading-Card-.git)
-|  Udacity Blog Project               | (https://github.com/JacobsenShawn/Udacity-Blog-Project.git)
+|  Udacity Animal Trading Card        | https://github.com/JacobsenShawn/Animal-Trading-Card-.git
+|  Udacity Blog Project               | https://github.com/JacobsenShawn/Udacity-Blog-Project.git
 |  Code In Place      | coming soon   |  
 |  Web Development    | coming soon   |     
 |  Angela Yu   | coming soon   |  

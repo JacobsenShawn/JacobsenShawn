@@ -14,6 +14,14 @@
 - HTML, CSS, JavaScript
 - Git & GitHub
 
+
+📁 Repositories by Subject
+
+| Subject            | Repo Link |
+|--------------------|-----------|
+| 🔣 JavaScript Basics | [JS-Basics](https://github.com/YourUsername/JS-Basics) |
+| 💡 Algorithms & Logic | [Algo-Practice](https://github.com/YourUsername/Algo-Practice) |
+| 🌐 Web Development | [WebDev-Course](https://github.com/YourUsername/WebDev-Course) |
 <!--
 **JacobsenShawn/JacobsenShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

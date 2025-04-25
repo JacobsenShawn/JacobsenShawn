@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+ My name is Shawn and I am passionate about Web Development, Networking, AI & Coding, Lifelong Learner. 
+ 
+🚀 Aspiring NASA Network Engineer - Building the Future with Tech & Innovation Create & Elevate! 
 🎓 I'm currently learning to code and building cool projects as I go!  
 🚀 My goal is to become a full-stack web developer and master real-world coding skills.  
 📚 I'm using GitHub to share everything I'm learning — from basic JavaScript to full web apps.
@@ -7,9 +10,10 @@
 
 ## 🛠️ Tech I’m Learning
 
+- Stanford - Code In Place 
 - HTML, CSS, JavaScript
 - Git & GitHub
-- Node.js and React (soon!)
+
 <!--
 **JacobsenShawn/JacobsenShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

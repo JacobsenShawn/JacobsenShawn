@@ -39,7 +39,7 @@
 
 | Subject                             | Repo Link  |
 |-------------------------------------|-------------------------------------------------------------------|
-|  List of Achieved  Certifications   |[Certifications](https://github.com/JacobsenShawn/Certifications-)
+|  List of Achieved  Certifications   | https://github.com/JacobsenShawn/Certifications
 |  Udacity Animal Trading Card        | https://github.com/JacobsenShawn/Animal-Trading-Card-.git
 |  Udacity Blog Project               | https://github.com/JacobsenShawn/Udacity-Blog-Project.git
 |  Code In Place                      | https://github.com/JacobsenShawn/Code-In-Place-Solved-  |  

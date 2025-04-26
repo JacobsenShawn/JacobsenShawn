@@ -56,6 +56,6 @@
 
 Thanks for stopping by! 
 Please feel free to follow me on my journey, and dont hesitate to reach out throught the provided links.
-I would love to collabprate with fellow go GITters to continue to learn and grow. 💻🧠
+I would love to collaborate with fellow go GITters to continue to learn and grow. 💻🧠
 ![ Alt Text](https://www.nasa.gov/wp-content/uploads/2025/04/54438297406-927b72555e-o.jpg )
 

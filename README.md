@@ -7,8 +7,8 @@
 
 - 🚀 Aspiring { NASA Network Engineer } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
 - 🎓 I'm currently learning to code and building cool projects as I go!  
-- 🚀 My goal is to become a full-stack web developer and master real-world coding skills.  
-- 📚 I'm using GitHub to share everything I'm learning — from basic JavaScript to full web apps.
+- :books: My goal is to become a full-stack web developer and master real-world coding skills.  
+- :cat: I'm using GitHub to share everything I'm learning — from basic JavaScript to full web apps.
 <br>
 
 ## 🛠️ Tech I’m Learning

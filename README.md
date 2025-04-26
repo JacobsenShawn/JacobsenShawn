@@ -42,7 +42,7 @@
 |  List of Achieved  Certifications   |[Certifications](https://github.com/JacobsenShawn/Certifications-)
 |  Udacity Animal Trading Card        | https://github.com/JacobsenShawn/Animal-Trading-Card-.git
 |  Udacity Blog Project               | https://github.com/JacobsenShawn/Udacity-Blog-Project.git
-|  Code In Place      | :construction: coming soon   |  
+|  Code In Place                      | https://github.com/JacobsenShawn/Code-In-Place-Solved-  |  
 |  Web Development    | :construction: coming soon   |     
 |  Angela Yu          | :construction: coming soon   |  
 <!--

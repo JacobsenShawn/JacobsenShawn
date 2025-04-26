@@ -1,6 +1,6 @@
 # Hi there 👋
 
- ## 🛠️ About Me
+ ## :us: About Me
  
 ###   My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
 <br>
@@ -28,7 +28,7 @@
 - 🌍 Open to internships, collaborations
 <br>
 
- ## 🛠️ Tech Stack {Learning as I go}
+ ## :dart: Stack {Learning as I go}
 - Languages: HTML/CSS, JavaScript, Python
 - Tools: Git, GitHub
 - Currently Learning: Front-End Development , and Coding Fundamentals 
@@ -42,9 +42,9 @@
 |  List of Achieved  Certifications   |[Certifications](https://github.com/JacobsenShawn/Certifications-)
 |  Udacity Animal Trading Card        | https://github.com/JacobsenShawn/Animal-Trading-Card-.git
 |  Udacity Blog Project               | https://github.com/JacobsenShawn/Udacity-Blog-Project.git
-|  Code In Place      | coming soon   |  
-|  Web Development    | coming soon   |     
-|  Angela Yu   | coming soon   |  
+|  Code In Place      | :construction: coming soon   |  
+|  Web Development    | :construction: coming soon   |     
+|  Angela Yu          | :construction: coming soon   |  
 <!--
 
 |  Code In Place      | [Algo-Practice](https://github.com/YourUsername/Algo-Practice) |     <---  the repo i create url goes here 

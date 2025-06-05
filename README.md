@@ -1,6 +1,6 @@
 # Hi there 👋
 
- ## :us: About Me
+ ## About Me
  
 ###   My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
 <br>

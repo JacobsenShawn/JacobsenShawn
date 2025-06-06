@@ -13,6 +13,7 @@
 
 ## 🛠️ Tech I’m Learning
 
+- Udacity Front End Web Dev Fundamentals 
 - Stanford - Code In Place 
 - Code Academy - HTML, CSS, JavaScript, and more
 - Git & GitHub

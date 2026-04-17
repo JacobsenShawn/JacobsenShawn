@@ -1,21 +1,21 @@
-# Hi there 👋
+# Welcome to my Github space👋
 
  ## About Me
  
 ###   My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
 <br>
 
-- 🚀 Aspiring { NASA Network Engineer } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
+- 🚀 Aspiring { Network Engineer } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
 - 🎓 I'm currently learning to code and building cool projects as I go!  
 - :books: My goal is to become a full-stack web developer and master real-world coding skills.  
 - :cat: I'm using GitHub to share everything I'm learning — from basic JavaScript to full web apps.
+- 🧮 Companys Im aiming to work for someday NASA , Netflix or Cisco 
 <br>
 
 ## 🛠️ Tech I’m Learning
 
-- Udacity Front End Web Dev Fundamentals 
+- Front End Web Dev Fundamentals 
 - Stanford - Code In Place 
-- Code Academy - HTML, CSS, JavaScript, and more
 - Git & GitHub
 - CompTia - Net+
 <br>
@@ -32,11 +32,16 @@
  ## :dart: Stack {Learning as I go}
 - Languages: HTML/CSS, JavaScript, Python
 - Tools: Git, GitHub
-- Currently Learning: Front-End Development , and Coding Fundamentals 
+- Currently Learning: Front-End Development ,Coding Fundamentals , Networking , Cloud , and IAM 
   <!--
   This is how you add the courses
   --> 
 ## 📁 Repositories by Subject (coming soon)
+- This section is under construction
+- I will up date this as I go and build projects
+- The goal is to show my progression from fundamentals to Job ready project builds ,
+  some projects may super simple , some may be follow along.
+- My goal is not only to showcase what I have learned but the progressive roadmap to get there.
 
 | Subject                             | Repo Link  |
 |-------------------------------------|-------------------------------------------------------------------|

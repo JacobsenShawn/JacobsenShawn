@@ -5,7 +5,7 @@
 ###   My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
 <br>
 
-- 🚀 Aspiring { Network Engineer } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
+- 🚀 Aspiring { IT Pro } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
 - 🎓 I'm currently learning to code and building cool projects as I go!  
 - :books: My goal is to become a full-stack web developer and master real-world coding skills.  
 - :cat: I'm using GitHub to share everything I'm learning — from basic JavaScript to full web apps.
@@ -18,6 +18,8 @@
 - Stanford - Code In Place 
 - Git & GitHub
 - CompTia - Net+
+- Cisco Technologies
+- AWS Cloud Technologies 
 <br>
 
 ## 🌱 About Me

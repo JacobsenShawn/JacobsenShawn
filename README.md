@@ -1,10 +1,11 @@
-<img width="261" height="193" alt="code" src="https://github.com/user-attachments/assets/550a6b72-5891-4b77-9968-a443a21a9257" />
-# Welcome to my Github space👋
 
- ## About Me
- 
-###   My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
+#  $\color{#7089e2} { Welcome }$ $\color{#7089e2} {to}$ $\color{#7089e2} {my}$  $\color{#a2f0f5} {Github}$ $\color{#7089e2} {profile}$👋
 <br>
+
+## 🛠️ $\color{#7089e2}{ About Me}$ 
+ <br>
+   🙇‍♂️ My name is Shawn and I am passionate about Web Development, Networking, and Coding. 
+ <br>
 
 - 🚀 Aspiring { IT Pro } - Who wants too build the Future with Tech & Innovation because when we Create we Elevate.   
 - 🎓 I'm currently learning to code and building cool projects as I go!  
@@ -13,7 +14,7 @@
 - 🧮 Companys Im aiming to work for someday NASA , Netflix or Cisco 
 <br>
 
-## 🛠️ Tech I’m Learning
+## 🛠️ $\color{#7089e2}{ Tech}$ $\color{#7089e2}{I’m}$  $\color{#7089e2}{Learning}$  
 
 - Front End Web Dev Fundamentals 
 - Stanford - Code In Place 
@@ -23,36 +24,30 @@
 - AWS Cloud Technologies 
 <br>
 
-## 🌱 About Me
-
-- 🧩 I love learning how things work behind the scenes
-- 🎯 Focused on mastering the fundamentals
-- 🧠 I love learning to solving real-world problems with code  
-- ✨ Building a portfolio one project at a time
-- 🌍 Open to internships, collaborations
-<br>
-
- ## :dart: Stack {Learning as I go}
-- Languages: HTML/CSS, JavaScript, Python
-- Tools: Git, GitHub
-- Currently Learning: Front-End Development ,Coding Fundamentals , Networking , Cloud , and IAM 
   <!--
   This is how you add the courses
   --> 
-## 📁 Repositories by Subject (coming soon)
+## 📁 $\color{#7089e2}{Repositories}$ $\color{#7089e2} {by}$ $\color{#7089e2} {Subject}$  $\color{#fd2c22} {(coming soon)}$
 - This section is under construction
 - I will up date this as I go and build projects
 - The goal is to show my progression from fundamentals to Job ready project builds ,
   some projects may super simple , some may be follow along.
 - My goal is not only to showcase what I have learned but the progressive roadmap to get there.
 
-| Subject                             | Repo Link  |
+| $\color{#f97cf9} {Subject }$        | $\color{#f97cf9} {Repo Link }$  |
 |-------------------------------------|-------------------------------------------------------------------|
+$\color{#a2f0f5} {Web}$ $\color{#a2f0f5} {Development}$               
 |  Udacity Animal Trading Card        | https://github.com/JacobsenShawn/Animal-Trading-Card-.git
 |  Udacity Blog Project               | https://github.com/JacobsenShawn/Udacity-Blog-Project.git
-|  Code In Place                      | https://github.com/JacobsenShawn/Code-In-Place-Solved-  |  
-|  Web Development    | :construction: coming soon   |     
-|  Angela Yu          | :construction: coming soon   |  
+$\color{#a2f0f5} {Coding}$                
+|  Code In Place                      | https://github.com/JacobsenShawn/Code-In-Place-Solved-            |  
+JavaScript
+$\color{#a2f0f5} {Cloud}$                                  | 🛑: coming soon                              |  
+AWS 
+$\color{#a2f0f5} {Networking}$
+Comptia 
+Cisco
+
 <!--
 
 |  Code In Place      | [Algo-Practice](https://github.com/YourUsername/Algo-Practice) |     <---  the repo i create url goes here 
@@ -62,8 +57,10 @@
 - MyPortfolioSite
 - AdditionalProjects
 
-Thanks for stopping by! 
+Thanks for stopping by! <br>
 Please feel free to follow me on my journey, and dont hesitate to reach out throught the provided links.
-I would love to collaborate with fellow go GITters to continue to learn and grow. 💻🧠
-![ Alt Text](https://www.nasa.gov/wp-content/uploads/2025/04/54438297406-927b72555e-o.jpg )
+I would love to collaborate with fellow go $\color{#a3f643} {GITters}$ to continue to learn and grow. 💻🧠<br>
+<br>
+<img width="1043" height="560" alt="coding" src="https://github.com/user-attachments/assets/d94694ab-e139-42a2-90ed-aa287cd529f7" />
+
 

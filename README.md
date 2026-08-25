@@ -47,6 +47,7 @@ AWS
 $\color{#a2f0f5} {Networking}$
 Comptia 
 Cisco
+$\color{#a2f0f5} {Apps}$ $\color{#a2f0f5} {Im building}$   
 
 <!--
 

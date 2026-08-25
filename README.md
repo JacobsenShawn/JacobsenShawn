@@ -48,7 +48,7 @@ $\color{#a2f0f5} {Networking}$                             | 🛑: coming soon  
 Comptia Certifications                                    
 Cisco   Certifications                                    
 $\color{#a2f0f5} {Apps}$ $\color{#a2f0f5} {I'm}$   $\color{#a2f0f5} {building}$ | 🛑: coming soon         |  
-https://github.com/JacobsenShawn/RhymeMap
+RhymeMap                             | https://github.com/JacobsenShawn/RhymeMap
 <!--
 
 |  Code In Place      | [Algo-Practice](https://github.com/YourUsername/Algo-Practice) |     <---  the repo i create url goes here 

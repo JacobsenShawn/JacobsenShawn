@@ -60,7 +60,7 @@ $\color{#a2f0f5} {Apps}$ $\color{#a2f0f5} {I'm}$   $\color{#a2f0f5} {building}$ 
 
 Thanks for stopping by! <br>
 Please feel free to follow me on my journey, and dont hesitate to reach out throught the provided links.
-I would love to collaborate with fellow go $\color{#a3f643} {GITters}$ to continue to learn and grow. 💻🧠<br>
+I would love to collaborate with fellow go $\color{#a3f643} {GIT}$ters to continue to learn and grow. 💻🧠<br>
 <br>
 <img width="1043" height="560" alt="coding" src="https://github.com/user-attachments/assets/d94694ab-e139-42a2-90ed-aa287cd529f7" />
 

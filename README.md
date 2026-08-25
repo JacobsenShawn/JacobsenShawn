@@ -41,12 +41,12 @@ $\color{#a2f0f5} {Web}$ $\color{#a2f0f5} {Development}$
 |  Udacity Blog Project               | https://github.com/JacobsenShawn/Udacity-Blog-Project.git
 $\color{#a2f0f5} {Coding}$                
 |  Code In Place                      | https://github.com/JacobsenShawn/Code-In-Place-Solved-            |  
-JavaScript                                                 | 🛑: coming soon                              |  
+JavaScript                                                 |
 $\color{#a2f0f5} {Cloud}$                                  | 🛑: coming soon                              |  
 AWS                                                       
 $\color{#a2f0f5} {Networking}$                             | 🛑: coming soon                              |  
-Comptia Certifications                                     | 🛑: coming soon                              |  
-Cisco   Certifications                                     | 🛑: coming soon                              |  
+Comptia Certifications                                    
+Cisco   Certifications                                    
 $\color{#a2f0f5} {Apps}$ $\color{#a2f0f5} {I'm}$   $\color{#a2f0f5} {building}$ | 🛑: coming soon         |  
 
 <!--
